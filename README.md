@@ -51,3 +51,5 @@ Puedes abrir y ejecutar el notebook en Google Colab haciendo clic en el siguient
 -Edward Nicolás Díaz Cristancho – Líder de validación técnica y escenarios energéticos  
 -Juliana Utrera Flórez – Líder de arquitectura del modelo y estrategia de datos
 -Laura Rico Aldana – Líder de simulación de impacto ambiental y económico  
+
+Aplicación en Streamlit: https://github.com/drawnick1214/Simulator_TrilliumWatts
